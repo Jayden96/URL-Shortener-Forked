@@ -1,4 +1,4 @@
-const endpoint = 'https://www.jsonstore.io/6b6e3cd07f3aaecd8df25ab95875eb2462f00a7614f7205c2d5dc5229896ea98'
+const endpoint = 'https://www.jsonstore.io/30a86acc3dafaa26460d77422e981c0cd702c0c3d3d9696833f1e556ee7bb071'
 const fetchJSON = (a) => {
 	const f = new XMLHttpRequest()
 	f.open('GET', a, false)
